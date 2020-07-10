@@ -1,5 +1,5 @@
 
-## Hi, welcome to my profile!
+## Hi, welcome to my profile! :wave: :wave:
 
 ![Welcome Gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 ### What you should know about me?
