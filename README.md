@@ -4,7 +4,7 @@
 ![Welcome Gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 ## What you should know about me?
 
-I'm a bachelor in Computer Science and passionate about technology and information. I have been working with development and coding for about 3 years, precisely with mobile development, including ecommerce applications with 500k + users. In addition, I have worked on the entire product development cycle, from requirements gathering, UI design and prototyping to the deployment phase.
+I'm a bachelor in Computer Science and passionate about technology and information. I have been working with development and coding for about 3 years, precisely with mobile development, including ecommerce applications with 500k+ users. In addition, I have worked on the entire product development cycle, from requirements gathering, UI design and prototyping to the deployment phase.
 
 I'm adaptable and flexible to new environments and new technologies and breathe agile culture. In my trajectory I have participated in several inclusion projects for women in technology and lectured at some events on the topic.
 
