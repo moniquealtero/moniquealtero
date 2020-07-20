@@ -12,8 +12,7 @@
 ### What stack I work with?
 • React Native <br>
 • GraphQL <br>
-• TypeScript <br>
-• JavaScript/ES6 <br>
+• TypeScript/ES6 <br>
 
 ### Where else can you find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moniquealtero/)](https://www.linkedin.com/in/moniquealtero/)
