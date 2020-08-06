@@ -1,7 +1,7 @@
 
 <img src="https://github.com/moniquealtero/moniquealtero/blob/master/banner.png" width="100%"/>
 
-### What you should know about me?
+### What should you know about me?
 
 #### :computer: Software Development
 I have been working with development and coding for about 3 years, precisely with mobile development. I can work with both frontend and backend. 
@@ -29,4 +29,4 @@ I carry the philosophy of living that everything we learn, if it is relevant to 
 
 ---
 
-PS: Feel free to contact me an email **monique.altero@gmail.com**
+PS: Feel free to contact me: **monique.altero@gmail.com**
