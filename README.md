@@ -1,5 +1,5 @@
 
-![Welcome](./banner.png?raw=true)
+<img src="https://github.com/moniquealtero/moniquealtero/blob/master/banner.png" width="100%"  >
 ### What you should know about me?
 
 #### :computer: Software Development
