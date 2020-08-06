@@ -13,7 +13,7 @@ I have worked on the entire product development cycle, from requirements gatheri
 
 #### :two_women_holding_hands: Community Raiser
 
-I carry the philosophy of living that everything we learn, if it is relevant to others, we must share. Therefore, I seek to create content to share with our tech community through technical articles, lectures, personal experiences or courses.
+My mantra is everything we learn, if it is relevant to others, we must share. Therefore, I seek to create content to share with our tech community through technical articles, lectures, personal experiences or courses.
 
 ### Where else can you find me?
 
